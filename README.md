@@ -284,7 +284,8 @@ These results align with research suggesting that GRUs can match or exceed LSTM 
 
 The models scored:
 
-![submission scores](submission\submission.png "Kaggle Submission Scores")
+Stacked LTSM: .79
+GRU: .78
 
 9\. Discussion and Conclusion
 -----------------------------
